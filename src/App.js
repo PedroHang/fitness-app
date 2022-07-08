@@ -28,7 +28,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/fitness-app" exact element={<HomePage />} />
-        <Route path="/fitness-app/login" exact element={<LoginPage />} />
+        <Route path="/fitness-app/login" element={<LoginPage />} />
       </Routes>
     </Router>
   );
