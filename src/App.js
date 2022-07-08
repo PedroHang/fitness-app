@@ -27,8 +27,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" exact element={<HomePage />} />
-        <Route path="/login" exact element={<LoginPage />} />
+        <Route path="/fitness-app" exact element={<HomePage />} />
+        <Route path="/fitness-app/login" exact element={<LoginPage />} />
       </Routes>
     </Router>
   );

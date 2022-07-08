@@ -11,7 +11,7 @@ export default function Header() {
         <div className="row">
           <div className="col-md-12">
             <nav className="navbar navbar-static-top navbar-expand-lg header-sticky">
-              <a className="navbar-brand" href="/"><img className="img-fluid logo" src="assets/images/logo.svg" alt="logo" /></a>
+              <a className="navbar-brand" href="/fitness-app"><img className="img-fluid logo" src="assets/images/logo.svg" alt="logo" /></a>
               <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarmenu" aria-controls="navbarmenu" aria-expanded="false" aria-label="Toggle navigation">
                 <i className="fas fa-align-left"></i>
               </button>
