@@ -40,7 +40,7 @@ export default function Header() {
                               <li><a href="pages/our-trainers.html">Our Trainers</a></li>
                               <li><a href="pages/trainers-single.html">Trainers Single</a></li>
                               <li><a href="pages/services.html">Services</a></li>
-                              <li><a href="pages/contact-us.html">Contact us</a></li>
+                              <li><a href="pages/contact-us.html">Contact</a></li>
                               <li><a href="/login">Login</a></li>
                             </ul>
                           </div>
