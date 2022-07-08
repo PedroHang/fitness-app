@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./Home.js";
 import GlobalStyles from "./styles/GlobalStyles.js"
 import Login from "./Login.js";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import axios from "axios";
 
 const HomePage = () => {
