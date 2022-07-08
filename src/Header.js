@@ -20,7 +20,7 @@ export default function Header() {
                   <li className="nav-item dropdown active">
                     <a className="nav-link" href="pages/#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home<i className="fas fa-chevron-down fa-xs"></i></a>
                     <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li className="active"><a className="dropdown-item" href="pages/index.html">Home Defaultaaaaaaaaaaaa</a></li>
+                      <li className="active"><a className="dropdown-item" href="pages/index.html">Home Default</a></li>
                       <li><a className="dropdown-item" href="pages/index-yoga.html">Home Yoga</a></li>
                       <li><a className="dropdown-item" href="pages/index-shop.html">Home Shop</a></li>
                       <li><a className="dropdown-item" href="pages/index-2.html">Home Dark</a></li>
